@@ -1,3 +1,15 @@
+
+<<<<<<
+.jumbotron {
+  font-family: 'Margarine';
+  box-shadow: 12px 10px 16px rgb(111, 111, 116);
+  text-align: center;
+}
+
+h1 {
+  
+}
+
 .jumbotron {
   font-family: 'Margarine';
   box-shadow: 12px 10px 16px rgb(124, 124, 133);
@@ -19,3 +31,4 @@ body {
 p, .btn-lg {
   font-family: 'Raleway'
 }
+
